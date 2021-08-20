@@ -307,8 +307,6 @@ input:checked + .slider:before{
   font-weight: 600;
   border: 1px solid blueviolet;
   color: blueviolet;
-  background-color: #fff;
-  cursor: pointer;
 }
 .uniqe{
   background-color: blueviolet;
