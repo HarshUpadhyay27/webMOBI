@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/webMOBI/static/css/main.d740a820.chunk.css",
+    "main.js": "/webMOBI/static/js/main.ffe7e891.chunk.js",
+    "main.js.map": "/webMOBI/static/js/main.ffe7e891.chunk.js.map",
+    "runtime-main.js": "/webMOBI/static/js/runtime-main.92cc4732.js",
+    "runtime-main.js.map": "/webMOBI/static/js/runtime-main.92cc4732.js.map",
+    "static/js/2.d840b885.chunk.js": "/webMOBI/static/js/2.d840b885.chunk.js",
+    "static/js/2.d840b885.chunk.js.map": "/webMOBI/static/js/2.d840b885.chunk.js.map",
+    "index.html": "/webMOBI/index.html",
+    "static/css/main.d740a820.chunk.css.map": "/webMOBI/static/css/main.d740a820.chunk.css.map",
+    "static/js/2.d840b885.chunk.js.LICENSE.txt": "/webMOBI/static/js/2.d840b885.chunk.js.LICENSE.txt",
+    "static/media/logo.9e92f509.png": "/webMOBI/static/media/logo.9e92f509.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92cc4732.js",
+    "static/js/2.d840b885.chunk.js",
+    "static/css/main.d740a820.chunk.css",
+    "static/js/main.ffe7e891.chunk.js"
+  ]
+}
